@@ -1,3 +1,3 @@
 # broadcom-ethernet
 Changes to the broadcom thernet driver
-This is just an experimental purpose driver of broadcom ethernet driver repository. Please don't use it unless you know what you are doing. 
+This is just an experimental purpose source of broadcom ethernet driver. Please don't use this repo, unless you know what you are doing. It can be vulnerable/ memory leaked, etc. For a stable version, please have a look at https://github.com/abinnj009/broadcom-ethernet/releases 
